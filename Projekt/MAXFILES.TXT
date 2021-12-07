@@ -1,0 +1,39 @@
+﻿C:\Users\niewi\Documents\3ds Max 2022\scenes\t$m$p$$$\Projekt.max
+C:\Users\niewi\Documents\3ds Max 2022\scenes\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Corona\materials\assets\c3b2fdf4355b.jpg
+C:\Program Files\Corona\materials\assets\23a73ec03383.jpg
+C:\Program Files\Corona\materials\assets\7835646fcc76.jpg
+C:\Program Files\Corona\materials\assets\5ead66372b37.jpg
+C:\Program Files\Corona\materials\assets\7ac95c12c638.jpg
+C:\Program Files\Corona\materials\assets\4b8eb0811cf0.jpg
+C:\Program Files\Corona\materials\assets\c5c45e47afd8.jpg
+C:\Program Files\Corona\materials\assets\c269fbd34af7.jpg
+C:\Program Files\Corona\materials\assets\f12e7d5982d6.jpg
+C:\Program Files\Corona\materials\assets\bc896bd65fbd.jpg
+C:\Program Files\Corona\materials\assets\84365634283d.jpg
+C:\Program Files\Corona\materials\assets\f7a07ad5b3bf.png
+C:\Program Files\Corona\materials\assets\4e5e64566036.tif
+C:\Program Files\Corona\materials\assets\8856de7fda73.png
+C:\Program Files\Corona\materials\assets\6b6963b29938.jpg
+C:\Program Files\Corona\materials\assets\10eb4f3be7b1.jpg
+C:\Program Files\Corona\materials\assets\d2e611dca1c6.jpg
+C:\Program Files\Corona\materials\assets\f661d4030944.jpg
+C:\Program Files\Corona\materials\assets\f38b12638361.jpg
+C:\Program Files\Corona\materials\assets\fecc74d10252.jpg
+C:\Program Files\Corona\materials\assets\3c23c4cca488.jpg
+C:\Program Files\Corona\materials\assets\c3ac2dcdd55e.tif
+C:\Program Files\Corona\materials\assets\f73c1982646d.jpg
+C:\Program Files\Corona\materials\assets\2da5a4dcbe50.jpg
+C:\Program Files\Corona\materials\assets\a1a24dab980f.jpeg
+C:\Program Files\Autodesk\3ds Max 2022\Maps\Mahogany.jpg
+C:\Program Files\Autodesk\3ds Max 2022\Maps\Pool Table Felt.jpg
+C:\Program Files\Autodesk\3ds Max 2022\Maps\adskMtl\Black.jpg
+C:\Program Files\Autodesk\3ds Max 2022\Maps\Chrome Texture.jpg
+C:\Program Files\Corona\materials\assets\c18bd54a8bee.jpg
+C:\Users\niewi\Downloads\Bowling_Pin_v1_L3.123c79f9a879-8aea-4f51-83de-268e2f6c5804\Bowling_Pin_v1_L3.123c79f9a879-8aea-4f51-83de-268e2f6c5804\10492_Bowling-Pin_v1_diffuse.jpg
+C:\Users\niewi\Downloads\10491_Bowling_Ball_v1_L3.123c3cc6cc56-c2f5-47cf-831d-5ffdccaeb979\10491_Bowling_Ball_v1_L3.123c3cc6cc56-c2f5-47cf-831d-5ffdccaeb979\10491_Bowling-Ball_v1_diffues.jpg
+C:\Program Files\Corona\materials\assets\645ce3f9499b.jpg
+C:\Program Files\Corona\materials\assets\9d916a7b49dd.jpg
+C:\Program Files\Corona\materials\assets\eb994ca2e893.jpg
+C:\Program Files\Corona\materials\assets\444635fe6770.jpg
+C:\Program Files\Corona\lut\Adanmq_Advantix_100.cube
